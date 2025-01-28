@@ -3,4 +3,4 @@ This is the repo for the design of Lego pick and place Mindstorm Ev3. The Design
 
 ## Files:
 
-The repo contains .STEP and .usdz files. Oter formats of the Design require very high memory, hence has been excluded. It can be shared if asked upon (OR JUST CONVERT IT with .step!!!!! :) 
+The repo contains an archive of .STEP and .usdz files. Oter formats of the Design require very high memory, hence has been excluded. It can be shared if asked upon (OR JUST CONVERT IT with .step!!!!! :) 
